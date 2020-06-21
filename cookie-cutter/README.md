@@ -9,14 +9,9 @@ Project Organization
 ./ps6_hazard_detection/
 ├── data
 │   ├── external
-│   │   └── __pycache__
 │   ├── interim
-│   │   ├── scenario_002
-│   │   ├── scenario_003
-│   │   ├── ...
 │   ├── processed
 │   └── raw
-│       └── link_to_dataset -> /media/sf_H3D_dataset/
 ├── reports
 │   ├── alerts
 │   ├── figures
