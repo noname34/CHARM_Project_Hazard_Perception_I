@@ -1,7 +1,7 @@
 ps6_hazard_detection
 ==============================
 
-Autonomous vehicle system to detect hazards
+Collision avoidance system for autonomous vehicles
 
 Project Organization
 ------------
